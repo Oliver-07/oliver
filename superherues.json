@@ -38,14 +38,14 @@
       ]
     },
     {
-      "name" : "Thor",
+      "name" : "Iron Man",
       "age" : 1000000,
       "secretIdentity" : "Unknown",
       "powers" : [
         "Fuerza",
-        "Martillo",
+        "Inteligencia",
         "Resistencia",
-        "Inmortal"
+        "Millonario"
     ]
     }
     ]
