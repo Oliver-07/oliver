@@ -38,14 +38,14 @@
       ]
     },
     {
-      "name" : "Batman",
+      "name" : "Super Man",
       "age" : 1000000,
       "secretIdentity" : "Unknown",
       "powers" : [
-        "No tiene super poderes",
-        "Inteligencia",
-        "Caballero de la noche",
-        "Millonario"
+        "Invulnerabilidad.",
+        "Curación rápida.",
+        "Vuelo",
+        "Visión de calor"
     ]
     }
     ]
